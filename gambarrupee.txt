@@ -1,0 +1,11 @@
+echo $ijo."
+  _ __ _   _ _ __   ___  ___
+ | '__| | | | '_ \ / _ \/ _ \
+$biru | |  | |_| | |_) |  __/  __/
+$red |_|   \__,_| .__/ \___|\___|
+            |_|".$t;
+echo $putih."[|===|".$turkis."creator : Shadow Bot".$putih." |===|]".$t;
+echo $putih."[|===|".$turkis."support : HĂN C_GAMER".$putih."|===|]".$r;
+
+echo $ijo.">> Subscribe channel yt SHADOW BOT CHANNEL".$t.$kuning.">> Subscribe channel yt HĂN C_GAMER".$r;
+
